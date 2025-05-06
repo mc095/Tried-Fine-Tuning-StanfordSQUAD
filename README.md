@@ -1,6 +1,6 @@
 # My Experience Fine-tuning FLAN-T5-small on SQuAD Dataset
 
-This README is my personal take on what happened when I evaluated my fine-tuned FLAN-T5-small model on a subset of the Stanford Question Answering Dataset (SQuAD). I used a custom Python script to fine-tune the model with Parameter-Efficient Fine-Tuning (PEFT) and LoRA, and the results gave me a lot to think about. Here’s a clear breakdown of my model’s performance, the gaps I noticed, and what I think went wrong.
+This is my personal take on what happened when I evaluated my fine-tuned FLAN-T5-small model on a subset of the Stanford Question Answering Dataset (SQuAD). I used a custom Python script to fine-tune the model with Parameter-Efficient Fine-Tuning (PEFT) and LoRA, and the results gave me a lot to think about. Here’s a clear breakdown of my model’s performance, the gaps I noticed, and what I think went wrong.
 
 ## How I Set It Up
 
